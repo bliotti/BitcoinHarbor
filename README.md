@@ -15,6 +15,6 @@ Get deep in the technicals of Bitcoin, Stay up to date with new soft forks like 
 ### Alby 
 An example app of Lightning and Nostr combined. community, app store and marketplace. A browser extension.
 ### Plebnet.dev
-Plebnet.dev is a Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
+[Plebnet.dev](https://plebnet.dev) is a Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
 
 
