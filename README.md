@@ -2,7 +2,7 @@
 
 The topics here are to be briefly touched. Later we will do a deep dive and in the order of interest-level in each domain. Total of 60 min to be spent on this list. 
 
-## Socratic Session 1 Topics. 
+## Socratic Seminar #1 Topics. 
 
 ### 1. Raspibolt/Minibolt (2 min) 
 One of the best instructionals on building a lighting node from scratch and learn Linux along the way.
