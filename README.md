@@ -1,6 +1,8 @@
 # BitcoinHarbor
 
-The topics here are to be briefly touched. Later we will do a deep dive and in the order of interest-level in each domain. Total of 60 min to be spent on this list. 
+For this first meeting we will discus the forum and vibe we are shooting for. Topics 1-3 are to be briefly touched upon and topics 4 & 5 will have more socratic dialog time. In the future, we will do a activities and/or deep dives and in various domains. 
+
+A total of 60 min to be spent. 
 
 ## Socratic Seminar #1 Topics. 
 
@@ -17,9 +19,8 @@ The best wallet for bitcoin enthusiasts that care about privacy. We will briefly
 ### 5. Border Wallets (15 min quasi-deep dive)
 The new way to store a seed phrase that only requires a file, a pattern, and and one word.
 -In the future, this could be an interactive and full meetup opportunity. 
-### 6. Q&A  (15 min) 
 
-#Future Topics Holding Pattern
+# IF time
 ### Bitcoin Review Podcast 
 A podcast to get deep in the technicals of Bitcoin, Stay up to date with new soft forks like OP_CAT.
 ### Plebnet.dev 
@@ -27,4 +28,4 @@ A podcast to get deep in the technicals of Bitcoin, Stay up to date with new sof
 -where can you get more info? (https://plebnet.dev)
 ### Alby 
 An example app of Lightning and Nostr combined. community, app store and marketplace. A browser extension.
--where can you get more info? (enter link here)
+-where can you get more info? (enter link heree)
