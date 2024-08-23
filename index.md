@@ -6,6 +6,9 @@
 - [Seminar 2](seminar2.md)
 <!-- - [Week 3](week3.md) -->
 
+<br>
+<hr>
+
 {% include_relative seminar1.md %}
 
 <br>

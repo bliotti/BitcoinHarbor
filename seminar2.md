@@ -1,3 +1,7 @@
 # Seminar 2
 
-## Placeholder for the next seminar
+## Socratic Seminar #2 Topics
+
+### [Bitcoin Descriptors](https://bitcoindevkit.org/descriptors/)
+
+### TBD
